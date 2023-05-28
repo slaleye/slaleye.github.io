@@ -2,12 +2,12 @@ export default function Home() {
   return (
     <main className="container mx-auto">
       <section className="intro">
-        Image Container
         <h1>Salomon O. Laleye</h1>
         <p>
           Hey, I am Salomon, Front end Developer. I post about JS, React, Web
           Performance.
         </p>
+        <span>Location: Germany</span>
         <ul>
           <li>
             <a href="https://github.com/slaleye">Linkedin</a>
@@ -21,12 +21,6 @@ export default function Home() {
           <li>
             <a href="https://medium.com/@salomonlaleye">Medium</a>
           </li>
-        </ul>
-      </section>
-      <section className="blog">
-        <h3>Blog Posts</h3>
-        <ul>
-          <li>Some blogs</li>
         </ul>
       </section>
     </main>
