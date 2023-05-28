@@ -4,8 +4,8 @@ export default function Home() {
       <section className="intro">
         <h1>Salomon O. Laleye</h1>
         <p>
-          Hey, I am Salomon, Front end Developer. I post about JS, React, Web
-          Performance.
+          Hey, I am Salomon, Front end Developer. This is a site in progress!
+          I will get to it when I get some time!
         </p>
         <span>Location: Germany</span>
         <ul>
